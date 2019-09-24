@@ -1,4 +1,4 @@
-## `let a = new A()` new 的意义
+## `let a = new A()` 内部机制
 
     //创建空对象
     var o = new Object();
