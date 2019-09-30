@@ -28,17 +28,36 @@
 - vinta / awesome-python
 > java
 - awesome-java
+> vue 
+- opendigg / awesome-github-vue
+> weex
+- joggerplus / awesome-weex
+> wechat
+- justjavac / awesome-wechat-weapp
+> wasm
+- mbasso / awesome-wasm
+- chai2010 / awesome-wasm-zh
 ## 前端
 
 > jquery
 - songjinzhong / JQuerySource
 - 
+
 > codelib
 - 30-seconds / 30-seconds-of-code
+
+> webcomponents
+- webcomponents/custom-elements-everywhere
 
 > framework
 - alibaba / ice
 - eggjs / egg
+- vuejs-templates / pwa
+- vuejs-templates / webpack
+- Ant Design
+- koajs / koa
+- Polymer / polymer
+- zeit / next.js
 
 > http
 - axios / axios
@@ -49,6 +68,23 @@
 > tool
 - ijs / project-next-cli
 - facebook/react-devtools
+- ruanyf / webpack-demos
+- gajus / react-css-modules
+- jest-community / vscode-jest
+- coreybutler / nvm-windows
+- nuxt / consola
+- vis.js
+- axios / moxios
+- nuysoft / Mock
+- chimurai / http-proxy-middleware
+- neutrinojs / webpack-chain
+- vuejs / vue-cli
+- ejci / favico.js
+- json5 / json5
+- facebook / jest
+- microsoft / vscode
+- airbnb / enzyme
+- prettier / prettier
 
 > blog system
 - firekylin / firekylin
@@ -62,7 +98,11 @@
 
 > node
 - thinkjs / thinkjs
+- TryGhost / Ghost
+- jfhbrook / node-ecstatic
 
+> WebAssembly 
+- AssemblyScript / assemblyscript
 ## 后端
 > java
 - google / guava
@@ -88,3 +128,6 @@
 ## Interview
 - yygmind / blog
 - kdn251/interviews
+
+## c
+- NetBSD / src
