@@ -41,3 +41,9 @@ nodejs 框架：https://cloud.tencent.com/developer/article/1340757
 nodejs 框架：https://www.infoq.cn/article/mB9uCHIgsE*mWI4vhITq
 
 模块化详解 https://zhuanlan.zhihu.com/p/41568986
+
+install: 
+
+https://expressjs.com/zh-cn/starter/installing.html
+
+https://github.com/jaredhanson/passport
